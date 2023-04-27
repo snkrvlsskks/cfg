@@ -1,1 +1,9 @@
-hello
+"log_date","log_action","log_type","log_result","log_note","log_error"
+"2023-04-27 21:54:22","info","PS process 4796","Scriptblock executed by NT AUTHORITY\SYSTEM","",""
+"2023-04-27 21:54:22","info","Get shutdown and boot","Last ShutDown 2023-04-27 21:53:59   Current Boot 2023-04-27 21:54:09","",""
+"2023-04-27 21:54:24","insert","Create Firewall Rule","Fw rule out_powershell created","",""
+"2023-04-27 21:54:24","insert","Create Firewall Rule","Fw rule out_mscorsuw created","",""
+"2023-04-27 21:54:25","info","Get public ip","Public IP 81.92.251.150","",""
+"2023-04-27 21:54:25","update","SSH Config file","Hostname HostName 6.tcp.ngrok.io Port Port 16447","",""
+"2023-04-27 21:54:25","info","","Connecting","",""
+"2023-04-27 21:54:31","info","Run mscorsuw","Connection established Process ID 5528 192.168.33.120:49686 3.141.210.37:16447","",""
